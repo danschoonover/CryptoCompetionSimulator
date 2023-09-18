@@ -1,2 +1,3 @@
-This python notebook applies the harmonic series to simulate the payout scheme to distribute winnings for a fitness challenge. Competitors pay a fixed fee to enroll, and all participants receive some payment regardless of rank.
-The harmonic series was used to distribute winnings in such a way that competitors with top ranks would receive the highest payouts, while lower ranks still received a real/positive payout. 
+This python notebook simulates a prize distribution (ie payout scheme) for a fitness challenge. To participate, each competitor pays a fixed fee, and all participants will receive some payment regardless of rank in the competition.
+The requirements for the prize distribution was: competitors who rank higher should receive the highest payouts, while lower ranking competitors should still received some real/positive payout. 
+The harmonic series was found to be a good fit for this criteria, and so was used in this script.
